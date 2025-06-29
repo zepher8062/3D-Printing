@@ -32,5 +32,5 @@ More to come as I complete it!
 - Z Motor Base Left_v2.0.stl - Increased the screw head hole size to 7.3 for easier install. 
 
 ## Rat Rig Remixed Files
-upper-z-rod-support-left_rail_mgn12h.stl - Modified linear rail mounting holes to a 20x20 configuration to support MGN12H carriages. 
-upper-z-rod-support-right_rail_mgn12h.stl - Modified linear rail mounting holes to a 20x20 configuration to support MGN12H carriages. 
+- upper-z-rod-support-left_rail_mgn12h.stl - Modified linear rail mounting holes to a 20x20 configuration to support MGN12H carriages. 
+- upper-z-rod-support-right_rail_mgn12h.stl - Modified linear rail mounting holes to a 20x20 configuration to support MGN12H carriages. 
