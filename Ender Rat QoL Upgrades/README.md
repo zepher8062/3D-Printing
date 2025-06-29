@@ -4,7 +4,7 @@ The modifications for this project are ongoing as needed.
 # Project Description
 I really enjoy the Ender 5 Plus “Rat Rig” conversion created by Big Dog Custom Creations, however there are a few obstacles I encountered when building the project for myself.  Most of them are QoL edits, but some are major redesigns that I found to work better.  I am also including some files of my own creation that are not available to my knowledge.  The printables are organized by where their origionals were obtained from.  This is to help you decide which files between all associated projects you need to keep and which to replace. 
 
-Every part in this project is intended to be used with the basic parts included with a stock Ender 5-Plus.  Parts have been modified to work with the original 2020/2040 aluminum extrusion.  The Ender-5 Plus I am working with has an OUTSIDE dimension (of the extrusion) of 538mm Wide x 554mm Deep x 550mm Tall.  The ORIGINAL bed size was (roughly) 370x370mm.
+Every part in this project is intended to be used with the basic parts included with a stock Ender 5-Plus.  Parts have been modified to work with the original 2020/2040 aluminum extrusion.  
 
 Links to projects that some models were sourced from:
 
@@ -16,6 +16,10 @@ Please see the GitHub page Changes.txt file for a complete list of all specific 
 For the most part, all assembly is in the same sequence as posted for the Rat Rig.  Check pictures for extra details.  I tried to be very focused when taking them to help out.  Any other questions, message me or make a post.
 
 More to come as I complete it!
+# Origjonal Printer Specifications
+- Printer: Ender-5 Plus
+  - Exterior Dimensions of Printer: 538mm Wide x 554mm Deep x 550mm Tall.
+  - Bed Size: 370mm x 370mm (rounded).
 
 # Edits as follows.
 ## Custom Created Files
