@@ -19,17 +19,17 @@ More to come as I complete it!
 
 # Edits as follows.
 ## Custom Created Files
--XY_Idler_Plate_Front_Right_2040_v1.0.stl - Custom creation for 2040 rails.
--XY_Idler_Plate_Front_Left_2040_v1.0.stl - Custom creation for 2040 rails.
--XY_Idler_Plate_Bilateral_2020_v1.0.stl -  Created to fit 2020 extrusion on either side.
--XY_Idler_Assy_Top_Assembly_Left_2020_v2.1.stl - Created to fit 20mm cross extrusion and 40mm depth.
--XY_Idler_Assy_Top_Assembly_Right_2020_v2.1.stl - Created to fit 20mm cross extrusion and 40mm depth.
+- XY_Idler_Plate_Front_Right_2040_v1.0.stl - Custom creation for 2040 rails.
+- XY_Idler_Plate_Front_Left_2040_v1.0.stl - Custom creation for 2040 rails.
+- XY_Idler_Plate_Bilateral_2020_v1.0.stl -  Created to fit 2020 extrusion on either side.
+- XY_Idler_Assy_Top_Assembly_Left_2020_v2.1.stl - Created to fit 20mm cross extrusion and 40mm depth.
+- XY_Idler_Assy_Top_Assembly_Right_2020_v2.1.stl - Created to fit 20mm cross extrusion and 40mm depth.
 
 ## Ender Rat Remixed Files
--upper-z-rod-support-left_v2.1.stl - Modified bracket mount to allow an 7mm insertion of 12x8mm linear rail tip.
--upper-z-rod-support-right_rail_v2.1.stl - Modified bracket mount to allow an 7mm insertion of 12x8mm linear rail tip.
--Z Motor Base Right_v2.0.stl - Increased the screw head hole size to 7.3 for easier install.
--Z Motor Base Left_v2.0.stl - Increased the screw head hole size to 7.3 for easier install. 
+- upper-z-rod-support-left_v2.1.stl - Modified bracket mount to allow an 7mm insertion of 12x8mm linear rail tip.
+- upper-z-rod-support-right_rail_v2.1.stl - Modified bracket mount to allow an 7mm insertion of 12x8mm linear rail tip.
+- Z Motor Base Right_v2.0.stl - Increased the screw head hole size to 7.3 for easier install.
+- Z Motor Base Left_v2.0.stl - Increased the screw head hole size to 7.3 for easier install. 
 
 ## Rat Rig Remixed Files
 upper-z-rod-support-left_rail_mgn12h.stl - Modified linear rail mounting holes to a 20x20 configuration to support MGN12H carriages. 
